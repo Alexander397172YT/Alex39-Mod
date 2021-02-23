@@ -1,0 +1,29 @@
+type: SingleTypeGenerator
+health: 540
+name: Lava Generator
+size: 3
+itemCapacity: 20
+liquidCapacity: 45
+itemDuration: 80
+powerProduction: 50
+consumes: {
+  items: {
+    items: [
+      obsidian/1
+    ]
+  }
+  liquid: {
+    liquid: liquid-lava
+    amount: 0.4
+  }
+}
+requirements: [
+bedrock/70
+diamond-platinum/80
+obsidian/50
+silicon/30
+graphite/20
+ruby/70
+]
+category: power
+research: differential-generator

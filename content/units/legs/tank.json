@@ -1,0 +1,16 @@
+{
+	"type": "legs",
+	"name": "Tank",
+	"description": "-",
+	"speed": 0.1,
+	"flying": false,
+	"health": 145,
+	"range": 160,
+	"weapon": {
+		"name": "-",
+		"damage":150,
+		"reload": 10,
+		"alternate": false,
+		"bullet": "artilleryUnit"
+	}
+}

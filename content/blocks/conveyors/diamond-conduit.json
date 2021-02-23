@@ -1,0 +1,14 @@
+{
+	"type": "conduit",
+	"name": "Diamond Conduit",
+	"description": "Fast Conduit",
+	"requirements": [
+		{"item": "diamond", "amount": 5},
+		{"item": "metaglass", "amount": 1}
+	],
+	"category": "liquid",
+	"speed": 0.5,
+	"health" : 250,
+	"liquidCapacity": 28,
+	"research": "pulse-conduit"
+}

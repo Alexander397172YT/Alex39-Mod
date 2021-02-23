@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Compressor",
+	"description": "-",
+	"outputItem": {"item": "diamond-platinum", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1,
+		"items": {
+			"items": [
+				{ "item": "platinum", "amount": 1 },
+				{ "item": "diamond", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "platinum", "amount": 50 },
+		{ "item": "diamond", "amount": 80 },
+	],
+	"category": "crafting",
+	"research": "router",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

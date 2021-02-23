@@ -1,0 +1,10 @@
+{
+  "name": "Alex39 Mod",
+  "author": "Alexander39",
+  "description": "My first mod for mindustry",
+  "version": 1.1,
+  "displayName": "Alex39 Mod",
+  "minGameVersion": "120",
+  "dependencies": [
+  ]
+}

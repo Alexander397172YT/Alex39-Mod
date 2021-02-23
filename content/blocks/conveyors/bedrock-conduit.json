@@ -1,0 +1,15 @@
+{
+	"type": "conduit",
+	"name": "Bedrock Conduit",
+	"description": "Protected Conduit",
+	"requirements": [
+		{"item": "bedrock", "amount": 2},
+		{"item": "obsidian", "amount": 2},
+		{"item": "metaglass", "amount": 1}
+	],
+	"category": "liquid",
+	"speed": 0.5,
+	"health" : 450,
+	"liquidCapacity": 28,
+	"research": "pulse-conduit"
+}

@@ -1,0 +1,24 @@
+type: Battery
+name: Ruby Battery
+health: 500
+size: 4
+hasPower: true
+consumes:{
+powerBuffered: 100000
+}
+emptyLightColor: fd979a
+fullLightColor: fd484e
+category: power
+requirements: [
+ silicon/40
+ graphite/40
+ ruby/80
+]
+research: {
+  parent: battery
+  requirements: [
+  copper/3900
+  lead/6700
+  silicon/780
+  ]
+} 

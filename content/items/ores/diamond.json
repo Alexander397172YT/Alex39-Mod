@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "Diamond",
+	"description": "A rare mineral",
+	"hardness": 5,
+	"cost": 2.0,
+	"color": "00FFFF",
+	"tier": 2
+}

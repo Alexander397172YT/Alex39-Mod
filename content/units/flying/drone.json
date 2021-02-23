@@ -1,0 +1,16 @@
+{
+	"type": "flying",
+	"name": "Archer",
+	"description": "-",
+	"speed": 1,
+	"flying": true,
+	"health": 145,
+	"range": 160,
+	"weapon": {
+		"name": "-",
+		"damage":45,
+		"reload": 10,
+		"alternate": true,
+		"bullet": "lightning"
+	}
+}

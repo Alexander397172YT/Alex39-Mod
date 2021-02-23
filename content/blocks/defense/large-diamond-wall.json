@@ -1,0 +1,12 @@
+{
+	"name": "Diamond Wall",
+	"description": "Very Good large wall",
+	"type": "Wall",
+	"health": 6000,
+	"size": 2,
+	"requirements": [
+		{ "item": "diamond", "amount": 80 }
+	],
+	"category": "defense",
+	"research": "router"
+}

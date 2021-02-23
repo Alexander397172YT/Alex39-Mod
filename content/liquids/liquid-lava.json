@@ -1,0 +1,10 @@
+{
+	"name": "Liquid Lava",
+	"description": "-",
+	"temperature": 1,
+	"flammability" : 0,
+	"explosiveness" : 0.1,
+	"flameColor" : "FF6700",
+    "viscosity": 0.5,
+    "color": "FF6700"
+}

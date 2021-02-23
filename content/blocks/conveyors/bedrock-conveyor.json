@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Bedrock Conveyor",
+	"description": "Protected Conveyor",
+	"requirements": [
+		{"item": "bedrock", "amount": 2},
+		{"item": "obsidian", "amount": 2}
+	],
+	"category": "distribution",
+	"speed": 0.15,
+	"health" : 350,
+	"research": "titanium-conveyor"
+}

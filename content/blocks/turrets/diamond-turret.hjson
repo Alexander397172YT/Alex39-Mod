@@ -1,0 +1,40 @@
+type: itemTurret
+name: Diamond turret
+description: -
+health: 500
+size: 3
+reloadTime: 1
+range: 400
+inaccuracy: 2
+alternate: true
+rotateSpeed: 12
+shots: 2
+shootCone: 15
+spread: 4
+restitution: 0.03
+ammoTypes: {
+    platinum: {
+        type: BasicBulletType
+        speed: 8.0
+        damage: 40
+        reloadMultiplier: 0.5
+        width: 5
+        height: 9
+        shootEffect: shootSmall
+        smokeEffect: shootSmallSmoke   
+        ammoMultiplier: 1
+        backColor: ac7349
+        frontColor: dcd16b
+        }
+    }
+    requirements: [
+       platinum/80
+       diamond/70
+       ruby/60
+    ]
+    category: turret
+    research: {
+        parent: duo
+        requirements: [
+    ]
+}

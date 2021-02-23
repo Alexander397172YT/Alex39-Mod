@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "Diamond-Platinum",
+	"description": "A rare mineral",
+	"hardness": 3,
+	"cost": 2.0,
+	"color": "99FFFF",
+	"tier": 2
+}

@@ -1,0 +1,29 @@
+{
+	"type": "GenericSmelter",
+	"name": "Lava Melter",
+	"description": "-",
+	"outputLiquid": {"liquid": "liquid-lava", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 80,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 4,
+		"items": {
+			"items": [
+				{ "item": "obsidian", "amount": 3 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "platinum", "amount": 50 },
+		{ "item": "diamond", "amount": 80 },
+		{ "item": "bedrock", "amount": 40 },
+		{ "item": "obsidian", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "router",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

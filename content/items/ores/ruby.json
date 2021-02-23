@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "Ruby",
+	"description": "A rare mineral",
+	"hardness": 5,
+	"cost": 2.0,
+	"color": "C73B52",
+	"tier": 2
+}

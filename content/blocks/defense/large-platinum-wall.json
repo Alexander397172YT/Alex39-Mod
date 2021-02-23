@@ -1,0 +1,12 @@
+{
+	"name": "Large Platinum Wall",
+	"description": "Good large wall",
+	"type": "Wall",
+	"health": 4800,
+	"size": 2,
+	"requirements": [
+		{ "item": "platinum", "amount": 60 }
+	],
+	"category": "defense",
+	"research": "router"
+}

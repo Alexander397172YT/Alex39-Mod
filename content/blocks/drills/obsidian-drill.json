@@ -1,0 +1,20 @@
+{
+	"name": "Obsidian Drill",
+	"description": "-",
+	"type": "Drill",
+	"size": 3,
+	"tier": 8,
+	"drillTime":1,
+	"consumes": {
+	  "power": 10
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.1
+		}
+	},
+	"requirements": [
+		{ "item": "obsidian", "amount": 40 },
+	],
+	"category": "production",
+	"research": "laser-drill"
+}
